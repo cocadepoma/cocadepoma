@@ -17,8 +17,8 @@ architecture, review and technical judgement stay human — the typing doesn't.
 
 <!-- BLOG-POST-LIST:START -->
 - [I used to fix the machines. Now I write the software that watches them.](https://deveser.net/articles/from-machines-to-software)
-- [Clean Architecture in an Astro site (yes, really)](https://deveser.net/articles/clean-architecture-in-an-astro-site)
-- [Why I don't test custom hooks (most of them)](https://deveser.net/articles/why-i-dont-test-custom-hooks)
+- [Clean Architecture in an Astro site &lpar;yes, really&rpar;](https://deveser.net/articles/clean-architecture-in-an-astro-site)
+- [Why I don&#39;t test custom hooks &lpar;most of them&rpar;](https://deveser.net/articles/why-i-dont-test-custom-hooks)
 - [AI will replace coders, not engineers](https://deveser.net/articles/ai-will-replace-coders-not-engineers)
 <!-- BLOG-POST-LIST:END -->
 
