@@ -13,21 +13,16 @@ architecture, review and technical judgement stay human — the typing doesn't.
 - **Tests that survive refactors.** Test from the user's side, not the implementation's.
 - **AI is a tool.** The human leads, the model executes.
 
-### What I'm building
-
-| Project | What it is |
-|---|---|
-| [session-cockpit](https://github.com/cocadepoma/session-cockpit) | An opencode-style session sidebar mod for Claude Code |
-| [clean-astro](https://github.com/cocadepoma/clean-astro) | Clean Architecture in Astro, with React and Solid islands |
-| [Paw Coder: Arcane Paths](https://deveser.net) | A 3D programming-puzzle game for the browser — React, Three.js, PWA |
-| [deveser.net](https://deveser.net) | My portfolio — Astro, layered so the business rules never learn it's Astro |
-
 ### Latest writing
 
+<!-- BLOG-POST-LIST:START -->
 - [I used to fix the machines. Now I write the software that watches them.](https://deveser.net/articles/from-machines-to-software)
 - [Clean Architecture in an Astro site (yes, really)](https://deveser.net/articles/clean-architecture-in-an-astro-site)
 - [Why I don't test custom hooks (most of them)](https://deveser.net/articles/why-i-dont-test-custom-hooks)
 - [AI will replace coders, not engineers](https://deveser.net/articles/ai-will-replace-coders-not-engineers)
+<!-- BLOG-POST-LIST:END -->
+
+→ [All articles](https://deveser.net/articles)
 
 ### Stack
 
