@@ -33,8 +33,6 @@ architecture, review and technical judgement stay human — the typing doesn't.
 
 `TypeScript` `React` `Astro` `React Native` `Flutter` `Three.js` `D3.js` `Vitest` `Docker` `CI/CD` `LLM integration`
 
-Day to day: **LazyVim**, **Tmux**, **Zellij**.
-
 ### Find me
 
 [deveser.net](https://deveser.net) · [LinkedIn](https://www.linkedin.com/in/pacors88/) · [X](https://x.com/pacors88)
